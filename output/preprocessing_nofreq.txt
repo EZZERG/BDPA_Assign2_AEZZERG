@@ -1,0 +1,149 @@
+0,ebook works complete william shakespeare gutenberg project
+77,william shakespeare
+98,anywhere anyone cost use ebook
+163,almost restrictions whatsoever away copy give
+232,terms included re under license use gutenberg project
+300,www org online ebook gutenberg
+348,details copyrighted below ebook gutenberg project
+415,please guidelines follow file copyright
+483,title works complete william shakespeare
+533,author william shakespeare
+562,2011 100 september posting date ebook 1
+607,january 1994 release date
+636,language english
+656,start ebook works complete william shakespeare gutenberg project
+742,produced future inc library world
+812,100th file presented gutenberg project etext
+877,cooperation presented inc library world
+942,cdroms future library shakespeare gutenberg project
+1007,releases often placed etexts domain public
+1073,shakespeare
+1086,implications certain read copyright etext
+1152,version electronic works complete william
+1211,1993 1990 inc library copyright world shakespeare
+1277,benedictine illinois college provided gutenberg project etext
+1345,permission machine readable electronic copies
+1409,others long distributed 1 copies
+1471,personal used 2 distributed use
+1526,prohibited commercially includes commercial distribution
+1592,membership service download charges
+1653,cooperate proud library world gutenberg project
+1718,presentation works complete william shakespeare
+1783,reading however education entertainment
+1848,neither nor shareware under domain public library
+1913,presentation conditions future charges
+1978,access material encouraged
+2043,allowed away anyone charges give
+2112,small print complete shakespeare
+2163,version electronic works complete william
+2220,1993 1990 inc library copyright world shakespeare
+2279,provided gutenberg project etext
+2325,permission benedictine illinois college
+2372,many unlike tm since etexts gutenberg project etext
+2436,methods protected materials since copyright
+2500,effect reputation right copy s use project
+2565,laws distribute limited copyright
+2630,statement conditions small print
+2680,license 1
+2693,encouraged distribute electronic
+2756,long machine readable copies etext
+2818,personal others 2 use 1
+2880,prohibited commercially commercial used distributed
+2937,service download includes distribution charges
+3000,membership
+3025,honor subject conditions b license
+3087,provisions replacement refund small print
+3148,exact statement distribute copies etext
+3211,statement including small print copies
+3269,compressed proprietary resulting form including
+3334,processing software hypertext word long
+3390,either
+3401,does displayed clearly readable 1 etext
+3466,those contain intended characters
+3526,work tilde although asterisk author
+3585,convey underline punctuation characters used
+3646,additional intended author characters used
+3710,indicate links hypertext
+3745,readily reader convertible 2 etext
+3806,equivalent ebcdic ascii plain expense form
+3867,displays program case instance etext
+3932,processors word
+3966,request agree 3 provide
+4023,fee additional plain expense cost copy etext
+4087,ascii
+4097,disclaimer warranty limited damages 2
+4142,incomplete contain defect form etext
+4203,errors data inaccurate corrupt transcription copyright
+4268,computer damaged disk virus infringement defective
+4333,damage codes equipment cannot read
+4396,described below right replacement refund
+4458,party receive project etext
+4522,disclaims tm liability gutenberg project etext
+4587,costs expenses fees legal damages including
+4651,remedies strict negligence liability under
+4712,breach contract warranty limited including
+4773,indirect consequential punitive incidental even damages
+4838,possibility notice damages give
+4891,days 90 discover receiv defect within etext
+4956,ing paid refund receive money
+5020,sending explanatory note within
+5082,physical person received
+5145,return note medium person
+5208,alternatively choose replacement copy give
+5269,electronically choose person received
+5323,opportunity second alternatively receive give
+5381,electronically
+5398,otherwise provided etext
+5457,express kind implied warranties
+5520,medium including etext
+5579,fitness merchantability warranties limited
+5637,allow states particular purpose disclaimers
+5698,exclusion consequen limitation implied warranties
+5762,tial above exclusions disclaimers damages
+5824,apply rights legal
+5876,indemnity hold indemnify 3 project
+5936,officers lia agents harmless directors members
+5999,arise bility fees legal expense cost including
+6058,following indirectly directly
+6122,alteration cause b distribution etext
+6177,modification c addition defect etext
+6237,t send don 4 want even money
+6301,dedicated number increasing gutenberg project
+6360,freely licensed domain public distributed works
+6424,gratefully accepts machine readable form project
+6482,scanning ocr machines contributions software money
+6545,free royalty licenses etexts domain public copyright
+6604,whatever pro else paid money
+6667,ject association benedictine illinois college gutenberg
+6728,kramer attorney charles b small print
+6779,212 com tel 5093 compuserve 2026 254 internet 72600
+6837,small print complete shakespeare
+6890,v 08 93 12 small print
+6918,version electronic works complete william
+6977,1993 1990 inc library copyright world shakespeare
+7043,benedictine illinois college provided gutenberg project etext
+7111,permission machine readable electronic copies
+7175,others long distributed 1 copies
+7237,personal used 2 distributed use
+7292,prohibited commercially includes commercial distribution
+7358,membership service download charges
+7422,1609
+7428,sonnets
+7441,william shakespeare
+7467,1
+7490,desire creatures increase fairest
+7535,rose die thereby beauty might s
+7581,decease riper
+7624,bear heir memory might tender
+7665,contracted bright eyes own thine
+7713,fuel feed light substantial flame st self s
+7769,famine lies making abundance
+7809,sweet foe too cruel self
+7858,fresh art ornament s world
+7906,gaudy herald spring
+7945,content buriest bud own thine within
+7989,waste niggarding mak churl tender st
+8036,pity glutton else world
+8081,due grave eat thee s world
+8134,2
+8157,winters brow besiege forty
